@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 I'm Kaleab
+
+ 3rd Year Computer Science Student at Dilla University  
+ Passionate about Software Development and Problem Solving  
+ Currently learning and working on Full-Stack Development
 
 <!--
 **kaleab38/kaleab38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
